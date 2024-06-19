@@ -7,5 +7,5 @@ The aim of the project is to evaluate the influence of authors' gender on the wa
 3. Dependency parsing
 4. Obtaining ADDs from dependency parsing (mean sentence ADD)
 5. Create a dataframe with MATTR and ADDs in one.
-6. Analyse: linear regression?
+6. Analyse: linear regression.
 
